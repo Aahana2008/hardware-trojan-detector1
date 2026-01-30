@@ -1,6 +1,6 @@
 streamlit
-numpy
 pandas
+numpy
 plotly
-torch
-torchvision
+scikit-learn
+joblib
